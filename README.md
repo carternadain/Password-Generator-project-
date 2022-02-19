@@ -7,10 +7,10 @@ This repository encapsulates code created to generate a random password between 
 
 
 # Screenshot of webpage
-![Screen Shot of the Portfolio](/assets/images/webpage.png) 
+![Screen Shot of the Portfolio](Assets/images/webpage.png) 
 
 # Screenshot of webpage in use
-![Screen Shot of the Portfolio Resized for mobile](/assets/images/webpage-working.png) 
+![Screen Shot of the Portfolio Resized for mobile](Assets/images/webpage-working.png) 
 
 
 # Webpage Link 
